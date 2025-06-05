@@ -1,4 +1,9 @@
-# 🟩 Impurity-Doped Graphene Nanoribbons (ZGNRs)
+#⬛⬛⬛⬛⬛⬛  
+ ⬛⬜⬛⬜⬛⬜  
+ ⬛⬛⬛⬛⬛⬛  
+ ⬛⬜⬛⬜⬛⬜  
+ ⬛⬛⬛⬛⬛⬛  
+ Impurity-Doped Graphene Nanoribbons (ZGNRs)
 
 > **Quantum engineering at the nanoscale:**  
 > Explore the electronic band structure of *zigzag graphene nanoribbons* (ZGNRs) with and without single-site (Si) impurity, using a custom Python tight-binding model.
